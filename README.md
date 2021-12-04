@@ -1,6 +1,6 @@
 # jprinter
 A simple Java library to print to a printer. It's aimed at small dot matrix printers, but can be used with anything accepting ESC codes. You'll probably need to bring yor own driver, though...
-More functionality can be added, but I haven had the need (nor actual hardware to test it currently)
+More functionality can be added, but I haven't had the need (nor actual hardware to test it currently)
 
 This library is part of a bigger project. TL;DR: I needed to print to an Epson TM-U220, but there was the possibility of a different printer to be used (which never hapened anyway)
 A driver for the Epson TM-U220 is provided.
